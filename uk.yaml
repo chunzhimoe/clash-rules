@@ -1,0 +1,4 @@
+# Giffgaff UK VoWiFi
+DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+DOMAIN-KEYWORD,mnc010.mcc234
+IP-CIDR,87.194.0.0/16,no-resolve
